@@ -1,0 +1,2 @@
+# Elmas
+Elmas şekil
